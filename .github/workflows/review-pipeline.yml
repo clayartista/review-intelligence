@@ -2,7 +2,7 @@
 name: Review Intelligence Pipeline
 
 on:
-  # Jalankan otomatis setiap hari pukul 07.00 WIT (Papua)
+  # Jalankan otomatis setiap hari pukul 07.00 WIB (Jakarta)
   schedule:
     - cron: "0 23 * * *"
 
